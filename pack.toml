@@ -1,0 +1,13 @@
+name = "Ghoul's Confections"
+author = "GhoulWhip"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8f39c275a6763461d8e366f38afaa5a41bd5a571a1695a92a089826dd3b7f64e"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.20.4"
